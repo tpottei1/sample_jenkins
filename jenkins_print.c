@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello from Jenkins world!\n");
+	printf("Hello from Jenkins!\n");
 	return 0;
 }
